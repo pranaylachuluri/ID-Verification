@@ -23,3 +23,4 @@ Here are some screenshots which can give you an idea about the design and work p
 - Android Studio
 - OCR
 
+Download App : 
